@@ -1,0 +1,6 @@
+{
+  "name": "CyberStrike: Sector 9",
+  "description": "An intense top-down sci-fi tactical shooter with survival waves, dynamic arsenal, boss battles, customizable upgrades, and procedural synthesized audio.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
